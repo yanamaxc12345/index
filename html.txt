@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Maket</title>
+    <link rel="stylesheet" href="39.css">
+</head>
+<body>
+<header>
+    <div class="conteiner">
+        <img src="png\logo.png" class="nono">
+        <nav class="silka1">
+            <a href="" class="silka1">Акции</a>
+            <a href="" class="silka1">Поиск</a>
+            <a href="" class="silka1">Регистрация на рейс</a>
+            <a href="" class="silka1">Личный кабинет</a>
+        </nav>
+    </div>
+</header>
+<main>
+    <div class="poick">
+        <h1>Поиск рейса</h1>
+        <div class="elem">
+        <form>
+            <input type="text" name="text" placeholder="Откуда">
+            <input type="text" name="text" placeholder="Куда">
+            <input type="text" name="text" placeholder="Туда">
+            <input type="text" name="text" placeholder="Обратно">
+        </form>
+        <select>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+        </select>
+        <form>
+            <input type="button" value="Поиск" class="pas">
+        </form>
+        </div>
+    </div>
+    <div class="block">
+        <h1>Акции</h1>
+    </div>
+    <div class="block1">
+        <div class="elem1">
+            <img src="png\promotion1.jpg" class="g1">
+            <h4>Возрат и изменение авиобилетов</h4>
+        <p>Пандемия изменила планы многих путешественников, но мы знаем, что она не будет длиться вечно.
+            Как только все это закончиться, мы продолжим исследовать этот мир так, как мы привыкли.
+            Специальные правила, разработанные для этой сложной ситуации, помогут вам отменить поездку или
+        отложить ее на более поздний срок</p>
+            <div class="block2">
+        <form>
+            <input type="button" value="Больше" class="knopka">
+        </form>
+            </div>
+        </div>
+        <div class="elem2">
+            <img src="png\promotion2.jpg" class="g2">
+            <h4>Хорошее предложение</h4>
+        <p>Снова увидеть улицы, которые такмного видели. Обнять своих любимых и оглянуться назад, чтобы увидеть,
+        через что вы прошли. И думать о новых мечтах, которые будт такими особенными!</p>
+            <div class="block3">
+        <form>
+            <input type="button" value="Больше" class="knopka">
+        </form>
+            </div>
+        </div>
+        <div class="elem3">
+            <img src="png\promotion3.jpg" class="g3">
+            <h4>Будем видеться почаще</h4>
+        <p>С начала января мы расшеряем географию полетов по России, чтобы вы могли чаще видеться со своими близкими.
+        Выберайте нашукомпанию, чтобы лететь туда, где вас всегда ждут.</p>
+            <div class="block4">
+        <form>
+            <input type="button" value="Больше" class="knopka">
+        </form>
+            </div>
+        </div>
+        <div class="elem4">
+            <img src="png\promotion4.jpg" class="g4">
+            <h4>Всё снова идёт своим чередом</h4>
+        <p>С 10 августа мы возобновим полеты в Турцию. Рейсы из Москвы в Анталию будут выполняться ежедневно
+        два раза в день, а рейсы по маршруту Москва-Даламан-три-сем раз в неделю.</p>
+            <div class="block5">
+        <form>
+            <input type="button" value="Больше" class="knopka">
+        </form>
+            </div>
+        </div>
+    </div>
+    <div class="podpiska">
+        <h2>Подписка</h2>
+        <div class="podpiska1">
+            <form>
+                <input type="text" name="text" placeholder="example@domains.com" class="podpiska2">
+            </form>
+            <form>
+                <input type="button" value="Подписаться" class="podpiska3">
+            </form>
+        </div>
+    </div>
+</main>
+<footer>
+    <div class="podval">
+        <h4>8 (800)100-10-10</h4>
+        <nav>
+            <a href="" class="silka2">Главная</a>
+            <a href="" class="silka2">Вход</a>
+            <a href="" class="silka2">Регистрация</a>
+            <a href="" class="silka2">Контакты</a>
+            <a href="" class="silka2">Новости</a>
+            <a href="" class="silka2">Возрат</a>
+            <a href="" class="silka2">Обратная связь</a>
+        </nav>
+    </div>
+</footer>
+
+</body>
+</html>
